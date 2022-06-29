@@ -14,6 +14,6 @@
 - [x] Then,```git status```, this command showed the changes   
 - [x] added the demo.txt file to the staging area using ```git add demo.txt```  
 - [x] next cmmited the file with the command ```git commit -m "added the demo text file"```   
-- [x] finally pushed the demo.txt using the command ```git remote origin main```   
+- [x] finally pushed the demo.txt using the command ```git push origin main```   
 \*\*In order to use the above command ,we need to know the name of remote,most of the time it is origin,otherwise you can get it using the command ```git remote``` \*\*  
 \*\* I did learn the markdown syntax to write this file from [here](https://docs.microsoft.com/en-us/azure/devops/project/wiki/markdown-guidance?view=azure-devops) \*\*
